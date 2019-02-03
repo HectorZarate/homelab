@@ -38,6 +38,8 @@ Nova or Neutron networking with floating IP support
 		
 `60 GB` RAM
 
+`640 GB` disk
+
 ## Planned
 
 ### Servers
@@ -58,5 +60,7 @@ Nova or Neutron networking with floating IP support
 `24` + `24` = `48` cores 
 
 `60` + `96` = `156 GB` RAM
+
+`640` + `1000` = `1640 GB` disk
 
 
