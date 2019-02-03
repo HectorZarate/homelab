@@ -28,7 +28,7 @@ Nova or Neutron networking with floating IP support
 
 2 Dell `R410`s
 	
-### Config
+### R410 Configuration 1
 
 2 `6` core CPUS, `30 GB` of RAM, `320 GB` hdd
 
@@ -44,7 +44,7 @@ Nova or Neutron networking with floating IP support
 
 2 More  Dell `R410`s
 
-### Config
+### R410 Configuration 2
 
 2 `6` core CPUS, `64 GB` RAM, `500 GB` disk
 
@@ -52,6 +52,8 @@ Nova or Neutron networking with floating IP support
 [ebay](https://www.ebay.com/itm/Dell-Poweredge-R410-2-X-SIX-CORE-2-66GHZ-X5650-64GB-RAM-500GB-SERVER-QTY-AVBL/352521213716?hash=item5213e6d714:g:FysAAOSwh2xYAR-N:rk:1:pf:0)
 
 ### Planned Totals
+
+2 R410(config1) + 2 R410(config2)
 		
 `24` + `24` = `48` cores 
 
